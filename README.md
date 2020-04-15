@@ -15,3 +15,9 @@ Ruby Programming language is used to learn how to produce structured programs.
 | Lecture 7 | Parameters, pointers, variables and the stack        | [Slides](lectures/lecture_7.pdf) | - |
 | Lecture 8 | Data, References, Arrays and Searching         | [Slides](lectures/lecture_8.pdf) | - |
 | Lecture 9 | GUI and Game Programming        | [Slides](lectures/lecture_9.pdf) | - |
+
+## Recommended Resources
+- Pine, C 2009 Learn to Program, The Pragmatic Programmer.
+- Sobkowicz, M 2015 Learn Game Programming with Ruby: Bring Your Ideas to Life with Gosu. The Pragmatic Programmer. 
+- Robertson, L.A 2014, Students Guide to Program Design, Newnes.
+- Freider, O, Frieder, G & Grossman, D. 2013 Computer Science Programming Basics in Ruby, O’Reilly Media Inc.
