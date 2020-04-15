@@ -4,8 +4,13 @@
 
 | Lecture                                                           | Title / Contents     | Materials                                                                | Project / Exercise                                      |
 | ----------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------- |
-| [Lecture 0]() | Overview of the unit | [slides](https://swinburne.instructure.com/courses/24341/files/7653212/download?wrap=1), [code](Lectures/Lecture0/src0) | -                                                       |
-| [Lecture 1]() | Writing a simple structured program      | [slides](Lectures/Lecture1/lecture1.pdf), [code](Lectures/Lecture1/src1) | [Project 0 - TODO App](#project-0-todo-app)             |
-| [Lecture 2](https://video.cs50.net/mobile/2018/spring/lectures/2) | React, Props, State  | [slides](Lectures/Lecture2/lecture2.pdf), [code](Lectures/Lecture2/src2) | -                                                       |
-| [Lecture 3](https://video.cs50.net/mobile/2018/spring/lectures/3) | React Native         | [slides](Lectures/Lecture3/lecture3.pdf), [code](Lectures/Lecture3/src3) | [Project 1 - Pomodoro Timer](#project-1-pomodoro-timer) |
-| [Lecture 4](https://video.cs50.net/mobile/2018/spring/lectures/4) | React Native         | [slides](Lectures/Lecture4/lecture4.pdf), [code](Lectures/Lecture4/src4) | [exercise](Lectures/Lecture4/exercises4)                |
+| [Lecture 0]() | Overview of the unit | [slides](lectures/lecture_0.pdf) | -                                                       |
+| [Lecture 1]() | Writing a simple structured program      | [slides](lectures/lecture_1.pdf) | [Project 0 - TODO App](#project-0-todo-app)             |
+| [Lecture 2]() | Functions and Structure Charts  | [slides](lectures/lecture_2.pdf) | -                                                       |
+| [Lecture 3]() | Selection and Iteration        | [slides](lectures/lecture_3.pdf) | [Project 1 - Pomodoro Timer](#project-1-pomodoro-timer) |
+| [Lecture 4]() | Arrays and Filehandling         | [slides](lectures/lecture_4.pdf) | [exercise](Lectures/Lecture4/exercises4)                |
+| [Lecture 5]() | GUI Control         | [slides](lectures/lecture_5.pdf) | [exercise](Lectures/Lecture4/exercises4)                |
+| [Lecture 6]() | Complex Data Types (Records, Enumerations)         | [slides](lectures/lecture_6.pdf) | [exercise](Lectures/Lecture4/exercises4)                |
+| [Lecture 7]() | Parameters, pointers, variables and the stack        | [slides](lectures/lecture_7.pdf) | [exercise](Lectures/Lecture4/exercises4)                |
+| [Lecture 8]() | Data, References, Arrays and Searching         | [slides](lectures/lecture_8.pdf) | [exercise](Lectures/Lecture4/exercises4)                |
+| [Lecture 9]() | GUI and Game Programming        | [slides](lectures/lecture_9.pdf) | [exercise](Lectures/Lecture4/exercises4)                |
