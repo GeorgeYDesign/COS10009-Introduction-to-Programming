@@ -1,4 +1,5 @@
 # Swinburne COS10009 - Introduction to Programming
+Ruby Programming language is used to learn how to produce structured programs.
 
 ## Syllabus
 
