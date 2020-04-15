@@ -10,7 +10,7 @@
 | Lecture 3 | Selection and Iteration        | [Slides](lectures/lecture_3.pdf) | [3.1T - Silly Name Tester](projects/3.1T-Silly_Name_Tester), [3.2T - Simple Menu](projects/3.2T-Simple_Menu), [3.3P - Shape Drawing](projects/3.3P-Shape_Drawing) |
 | Lecture 4 | Arrays and Filehandling         | [Slides](lectures/lecture_4.pdf) | [4.1T - File Handling](projects/4.1T-File_Handling), [4.2T - Gosu Cycle Loop](projects/4.2T-Gosu_Cycle_Loop), [4.3P - Shape Moving](projects/4.3P-Shape_Moving), [4.4HD - Maze Creation](projects/4.4HD-Maze_Creation) |
 | Lecture 5 | GUI Control         | [Slides](lectures/lecture_5.pdf) | [5.1T - Music Records](projects/5.1T-Music_Records), [5.2T - Track File Handling](projects/5.2T-Track_File_Handling), [5.3P - Button Test](projects/5.3P-Button_Test), [5.4C - Hover Button Test](projects/5.4C-Hover_Button_Test) |
-| Lecture 6 | Complex Data Types (Records, Enumerations)         | [Slides](lectures/lecture_6.pdf) | [exercise](Lectures/Lecture4/exercises4)                |
-| Lecture 7 | Parameters, pointers, variables and the stack        | [Slides](lectures/lecture_7.pdf) | [exercise](Lectures/Lecture4/exercises4)                |
-| Lecture 8 | Data, References, Arrays and Searching         | [Slides](lectures/lecture_8.pdf) | [exercise](Lectures/Lecture4/exercises4)                |
-| Lecture 9 | GUI and Game Programming        | [Slides](lectures/lecture_9.pdf) | [exercise](Lectures/Lecture4/exercises4)                |
+| Lecture 6 | Complex Data Types (Records, Enumerations)         | [Slides](lectures/lecture_6.pdf) | - |
+| Lecture 7 | Parameters, pointers, variables and the stack        | [Slides](lectures/lecture_7.pdf) | - |
+| Lecture 8 | Data, References, Arrays and Searching         | [Slides](lectures/lecture_8.pdf) | - |
+| Lecture 9 | GUI and Game Programming        | [Slides](lectures/lecture_9.pdf) | - |
