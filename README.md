@@ -4,7 +4,7 @@
 
 | Lecture                                                           | Title / Contents     | Materials                                                                | Project / Exercise                                      |
 | ----------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------- |
-| [Lecture 0]() | Overview of the unit | [slides](lectures/Lecture_0.pdf) | -                                                       |
+| [Lecture 0]() | Overview of the unit | [slides](lectures/Lecture_0.pdf) | [1.1T - Hello World](projects/1.1T-Hello_World)                                                      |
 | [Lecture 1]() | Writing a simple structured program      | [slides](lectures/Lecture_1.pdf) | [Project 0 - TODO App](#project-0-todo-app)             |
 | [Lecture 2]() | Functions and Structure Charts  | [slides](lectures/Lecture_2.pdf) | -                                                       |
 | [Lecture 3]() | Selection and Iteration        | [slides](lectures/lecture_3.pdf) | [Project 1 - Pomodoro Timer](#project-1-pomodoro-timer) |
