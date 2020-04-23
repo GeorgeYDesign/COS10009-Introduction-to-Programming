@@ -3,13 +3,13 @@ class Track
   def initialize(track_title, track_location)
     @track_title = track_title
     @track_location = track_location
+    track = File.open("input.txt")
   end
 end
 
 def read_tracks music_file
 	count = music_file.gets().to_i
   tracks = Array.new
-  track = File.open("input.txt")
   i = 0
   while (i < count)
     track = read_track(music_file)

@@ -1,47 +1,58 @@
 require './input_functions'
 
 module Genre
-  POP, CLASSIC, JAZZ, ROCK = *0..3
+  POP, CLASSIC, JAZZ, ROCK = *1..4
 end
 
-$genre_names = ['Pop', 'Classic', 'Jazz', 'Rock']
+# Maybe the following needs to be changed? How?
+$genre_names = ['Null', 'Pop', 'Classic', 'Jazz', 'Rock']
 
 class Album
-    attr_accessor :album_title, :album_artist, :album_genre
+  attr_accessor :title, :artist, :genre
 
-    def initialize(album_title, album_artist, album_genre)
-        @album_title = album_title
-        @album_artist = album_artist
-        @album_genre = album_genre
-    end
 end
+
+# This function Reads in and returns a single album from the given file, with all its tracks.
+# ...for now however, take input from the terminal to enter just the album information.
+# Complete the missing lines of code and change the functionality so that the hardcoded
+# values are not used.
 
 def read_album()
-  i = 0
-  while (i < $genre_names.length)
-    puts i.to_s + ":  " + $genre_names[i]
-    i += 1
-  end
 
-  menu_choice = read_integer_in_range("Please select a genre:", 0, 3)
+  # You could use get_integer_range below to get a genre.
+  # You only the need validation if reading from the terminal
+  # (i.e when using a file later, you can assume the data in
+  # the file is correct)
 
-  album_title = "Title_Placeholder"
-  album_artist = "Artist_Placeholder"
-  album_genre = $genre_names[menu_choice]
-
-  Album.new(album_title, album_artist, album_genre)
+  # insert lines here - use read_integer_in_range to get a genre
+  puts("Enter Album")
+  album_title = read_string("Enter Album Name:")
+  album_artist = read_string("Enter Artist Name:")
+  album_genre = read_integer_in_range("Enter Album Genre - 0 = N/A, 1 = Pop, 2 = Classic, 3 = Jazz, 4 = Rock", 1, 4)
+  album = Album.new()
+  album.title = album_title
+  album.artist = album_artist
+  album.genre = album_genre
+  return album
 end
 
-def print_album album
+# Takes a single album and prints it to the terminal
+# complete the missing lines:
+
+def print_album(album)
   puts('Album information is: ')
-  puts 'Album: ' + album.album_title
-  puts 'Artist: ' + album.album_artist
-  puts 'Genre: ' + album.album_genre
+	# insert lines here
+  puts('Album: ' + album.title)
+  puts('Artist: ' + album.artist)
+	puts('Genre is ' + album.genre.to_s)
+	puts($genre_names[album.genre])
 end
 
-def main
+# Reads in an Album then prints it to the terminal
+
+def main()
 	album = read_album()
 	print_album(album)
 end
 
-main
+main()
