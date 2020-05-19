@@ -11,23 +11,37 @@ def maintain_albums
   choice = read_integer_in_range("Please enter your choice:", 1, 4)
   case choice
     when 1
-      puts "You selected Update Album Title. Press enter to continue"
-      gets
+      update_album_title
     when 2
-      puts "You selected Update Album Genre Press enter to continue"
-      gets
+      update_album_genre
     when 3
-      puts "You selected Enter Album. Press enter to continue"
-      gets
+      enter_album
     when 4
       finished = true
+    else
+      puts 'Please Select Again'
     end until finished
   end
 end
 
 def play_existing_album()
-  puts "You selected Play Existing Album. Press enter to continue"
-  gets
+  puts 'You selected Play Existing Album'
+  read_string ('Press enter to continue')
+end
+
+def update_album_title()
+  puts 'You selected Update Album Title'
+  read_string ('Press enter to continue')
+end
+
+def update_album_genre()
+  puts 'You selected Update Album Genre'
+  read_string ('Press enter to continue')
+end
+
+def enter_album()
+  puts 'You selected Enter Album'
+  read_string ('Press enter to continue')
 end
 
 def main
@@ -38,6 +52,7 @@ def main
     puts '2 To Play existing Album'
     puts '3 Exit'
     choice = read_integer_in_range("Please enter your choice:", 1, 3)
+    read_string('Press enter to continue')
     case choice
       when 1
         maintain_albums

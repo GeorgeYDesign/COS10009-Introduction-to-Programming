@@ -1,0 +1,53 @@
+4
+X
+Ed Sheeran
+image/X.jpg
+1
+6
+Sing
+music/sing.mp3
+Photograph
+music/photograph.mp3
+Bloodstream
+music/bloodstream.mp3
+Tenerife sea
+music/tenerife_sea.mp3
+Thinking Out Loud
+music/thinking_out_loud.mp3
+I See Fire
+music/i_see_fire.mp3
+Starboy
+Weekend
+image/starboy.jpg
+2
+4
+Starboy
+music/starboy.mp3
+True Colours
+music/true_colours.mp3
+Six Feet Under
+music/six_feet_under.mp3
+Ordinary Life
+music/ordinary_life.mp3
+Doo-Wops & Hooligans
+Bruno Mars
+image/Doo-Wops & Hooligans.jpg
+1
+5
+Grenade
+music/grenade.mp3
+Just the way you are
+music/just_the_way_you_are.mp3
+The Lazy Song
+music/the_lazy_song.mp3
+Marry You
+music/marry_you.mp3
+Count On Me
+music/count_on_me.mp3
+Back In Black
+AC/DC
+image/ACDC.jpg
+3
+1
+Back in black
+music/back_in_black.mp3

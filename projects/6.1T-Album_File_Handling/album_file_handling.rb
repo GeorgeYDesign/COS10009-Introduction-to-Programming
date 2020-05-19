@@ -25,8 +25,7 @@ end
 def read_track music_file
 	name = music_file.gets()
 	location = music_file.gets()
-	track = Track.new(name, location)
-  return track
+  return track = Track.new(name, location)
 end
 
 def read_tracks music_file

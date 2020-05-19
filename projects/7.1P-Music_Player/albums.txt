@@ -1,0 +1,103 @@
+3
+Swimming
+Mac Miller
+Pop
+13
+Come Back to Earth
+sounds/00-Come-back-to-Earth.mp3
+Hurt Feelings
+sounds/01-Hurt-Feelings.mp3
+What's the Use
+sounds/02-Whats-the-use.mp3
+Perfecto
+sounds/03-Perfecto.mp3
+Self Care
+sounds/04-Self-Care.mp3
+Wings
+sounds/05-Wings.mp3
+Ladders
+sounds/06-Ladders.mp3
+Small Worlds
+sounds/07-Small-Worlds.mp3
+Conversation, Pt. 1
+sounds/08-Conversation-Pt1.mp3
+Dunno
+sounds/09-Dunno.mp3
+Jet Fuel
+sounds/10-Jet-Fuel.mp3
+2009
+sounds/11-2009.mp3
+So It Goes
+sounds/12-So-It-Goes.mp3
+Testing
+ASAP Rocky
+Pop
+15
+Distorted Records
+sounds/00-Distorted-Records.mp3
+Asap Forever
+sounds/01-Asap-Forever.mp3
+Tony Tone
+sounds/02-Tony-Tone.mp3
+Fukk Sleep
+sounds/03-Fukk-Sleep.mp3
+Praise the Lord
+sounds/04-Praise-the-Lord.mp3
+Calldrops
+sounds/05-Calldrops.mp3
+Buck Shots
+sounds/06-Buck-Shots.mp3
+Gunz N Butter
+sounds/07-Gunz-N-Butter.mp3
+Brotha Man
+sounds/08-Brotha-Man.mp3
+OG Beeper
+sounds/09-OG-Beeper.mp3
+Kids Turned Out Fine
+sounds/10-Kids-Turned-Out-Fine.mp3
+Hun43rd
+sounds/11-Hun43rd.mp3
+Changes
+sounds/12-Changes.mp3
+Black Tux, White Collar
+sounds/13-Black-Tux-White-Collar.mp3
+Purity
+sounds/14-Purity.mp3
+The Suns Tirade
+Isaiah Rashad
+Pop
+17
+Where U At
+sounds/00-Where-U-At.mp3
+4r Da Squaw
+sounds/01-4r-Da-Squaw.mp3
+Free Lunch
+sounds/02-Free-Lunch.mp3
+Rope Rosegold (Ft. Sir)
+sounds/03-Rope-Rosegold.mp3
+Wats Wrong (Ft. Zacari, Kendrick Lamar)
+sounds/04-Wats-Wrong.mp3
+Park
+sounds/05-Park.mp3
+Bday (Ft. Deacon Blues, Kari Faux)
+sounds/05-Bday.mp3
+Silkk Da Shocka (Ft. Syd)
+sounds/06-Silkk-Da-Shocka.mp3
+Tity Dolla (Ft. Hugh Augustine, Jay Rock)
+sounds/07-Titty-Dolla.mp3
+Stuck In The Mud (Ft. SZA)
+sounds/08-Stuck-In-The-Mud.mp3
+A Lot
+sounds/09-A-Lot.mp3
+AA
+sounds/10-AA.mp3
+Dressed Like Rappers
+sounds/11-Dressed-Like-Rappers.mp3
+Dont Matter
+sounds/12-Dont-Matter.mp3
+Brenda
+sounds/13-Brenda.mp3
+By George (Outro)
+sounds/14-By-George.mp3
+Find A Topic (Homies Begged)
+sounds/15-Find-A-Topic.mp3
